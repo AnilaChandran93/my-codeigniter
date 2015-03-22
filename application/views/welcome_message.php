@@ -8,6 +8,7 @@
 <body>
 
 <div id="container">
+    note: you might want to change the config a bit, secure-contrller is not included, bootstrap and jquery are available in resources.
 	<h1>Welcome to CodeIgniter!</h1>
 
 	<div id="body">
